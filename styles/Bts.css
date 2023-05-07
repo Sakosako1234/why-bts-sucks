@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+    font-family: 'Poltawski Nowy', serif;
+    text-align: center;
+}
+h1{
+    background-color: bisque;
+    padding: 20px;
+    text-align: center;
+}
+#ugly{
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+p{
+    font-size: x-large;
+}
+div{
+    text-align: justify;
+}
+ol,li{
+  font-size: x-large;  
+}
+#stupid{
+    float: right;
+    margin: 5px;
+}
+a{
+    color: white;
+    background-color: palevioletred;
+    font-size: xx-large;
+    text-decoration: none;
+    margin-left: 500px;
+}
+
