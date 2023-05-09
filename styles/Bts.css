@@ -17,9 +17,10 @@ p{
     font-size: x-large;
 }
 div{
-    text-align: justify;
+    text-align: center;
 }
-ol,li{
+ol,li, label{
+    text-align: start;
   font-size: x-large;  
 }
 #stupid{
@@ -31,6 +32,20 @@ a{
     background-color: palevioletred;
     font-size: xx-large;
     text-decoration: none;
-    margin-left: 500px;
+    text-align: center;
 }
-
+#fart{
+    float: right;
+    margin: 5px;
+    width: 400px;
+    height: 400px;
+}
+@media screen and (max-width:894px){
+    #fart{
+        margin: 65px;
+        margin-top:1px ;
+    }
+    #ugly{
+        margin:15px
+    }
+}
