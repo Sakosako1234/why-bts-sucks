@@ -40,6 +40,20 @@ a{
     width: 400px;
     height: 400px;
 }
+#gosh{
+    float: left;
+    width: 500px;
+    margin-left:50px;
+}
+#list{
+    float: right;
+    font-size: 100px;
+    margin-right: 190px;
+}
+#animations{
+    margin-left: 20px;
+    margin-top: 10px;
+}
 @media screen and (max-width:894px){
     #fart{
         margin: 65px;
@@ -49,3 +63,4 @@ a{
         margin:15px
     }
 }
+
